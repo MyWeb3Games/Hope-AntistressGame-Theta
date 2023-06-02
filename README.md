@@ -33,6 +33,7 @@ Calm and Mindful Gameplay: Engage in gameplay mechanics that prioritize calmness
 
 ### Contract Address:
 https://testnet-explorer.thetatoken.org/account/0x8ecb1a0f5fb3d989420da04530ba050ed5bdd9ca
+
 https://testnet-explorer.thetatoken.org/account/0x144f30dd3e1d41313a33e4129a232eeb7e3b5d45
 
 
