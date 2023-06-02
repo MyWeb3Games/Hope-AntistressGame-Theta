@@ -1,2 +1,2 @@
 
-window.web3ChainId = 3141;
+window.web3ChainId = 365;
